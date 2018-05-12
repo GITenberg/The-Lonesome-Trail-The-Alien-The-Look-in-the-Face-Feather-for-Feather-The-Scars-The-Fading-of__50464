@@ -1,4 +1,8 @@
 _repo: The-Lonesome-Trail-The-Alien-The-Look-in-the-Face-Feather-for-Feather-The-Scars-The-Fading-of__50464
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50464-h/images/cover.jpg
 creator:
   author:
     agent_name: Neihardt, John Gneisenau
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6935
     wikipedia: http://en.wikipedia.org/wiki/John_Neihardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50464#The-Lonesome-Trail-The-Alien-The-Look-in-the-Face-Feather-for-Feather-The-Scars-The-Fading-of_
 gutenberg_issued: '2015-11-16'
 gutenberg_type: Text
 identifiers:
