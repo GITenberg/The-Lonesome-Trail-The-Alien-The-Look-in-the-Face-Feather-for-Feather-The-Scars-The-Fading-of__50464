@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Lonesome Trail
 
   The Alien; The Look in the Face; Feather for Feather; The Scars; The Fading of Shadow
